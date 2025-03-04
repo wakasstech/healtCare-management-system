@@ -7,7 +7,8 @@ The **Healthcare Management System** is a web application designed to streamline
 ✅ **Doctor Management** – Maintain doctor profiles and schedules.  
 ✅ **Admin Dashboard** – Oversee hospital operations with detailed insights.  
 ✅ **Responsive Design** – Works seamlessly on both desktop and mobile devices.  
-
+![Image](https://github.com/user-attachments/assets/6c34cd3f-6e9c-4a0b-9b1f-332dc27e820e)
+![Image](https://github.com/user-attachments/assets/f622b75a-d5d9-41df-af3d-2cab5fcb3815)
 ## 🏗️ Technologies Used  
 
 ### **Frontend:**  
